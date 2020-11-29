@@ -2,7 +2,7 @@
 
 Big Integer library for c++. Implements basic operations which are described below.
 
-## Prequesties:
+## Prerequisites:
 * source code must use namespace `std` and `string` header.
 * Every funtion returns the value in the form of string. 
 
